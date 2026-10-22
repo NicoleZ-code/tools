@@ -1,9 +1,9 @@
 # Tool Color Picker
 
-Native macOS screen color picker project.
+一款原生 macOS 屏幕取色工具。
 
-- Source code and build instructions: [`code/`](code/)
-- UI reference and preview assets: [`UI/`](UI/)
-- Product notes: [`doc/`](doc/)
+- 源码与构建说明：[`code/`](code/)
+- 界面参考图和预览图：[`UI/`](UI/)
+- 项目说明：[`doc/`](doc/)
 
-Build the macOS app and installer from `code/` with `./build.sh`.
+进入 `code/` 目录，运行 `./build.sh` 即可构建 macOS 应用和安装包。
